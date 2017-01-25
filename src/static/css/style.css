@@ -1,8 +1,18 @@
 body {
 	background-color: #a6a6a6;
+	text-align: center;
 }
 
-.profilePic {
+img {
+	height: 400px;
+	width: 400px;
+}
+
+.logo {
+	border-radius: 100%;
+}
+
+.guitarist-preview {
 	height: 300px;
 	width: 300px;
 	display: inline-block;

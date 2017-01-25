@@ -1,4 +1,4 @@
-import React from 'react';
+var React = require("react");
 import GuitaristsPreview from './GuitaristsPreview';
 import guitarists from '../data/guitarists';
 
