@@ -3,17 +3,19 @@ body {
 	text-align: center;
 }
 
-img {
-	height: 400px;
-	width: 400px;
-}
-
 .logo {
+	height: 200px;
+	width: 200px;
 	border-radius: 100%;
 }
 
-.guitarist-preview {
-	height: 300px;
-	width: 300px;
-	display: inline-block;
+.guitarist-preview img {
+	height: 250px;
+	width: 250px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+header, footer {
+	background-color: white;
 }
